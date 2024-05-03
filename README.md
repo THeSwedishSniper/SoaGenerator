@@ -1,2 +1,1 @@
-# SoaGenerator
-# SoaGenerator
+Simply press "generate" and voila!

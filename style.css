@@ -1,0 +1,38 @@
+.main-button {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    align-items: center; /* Center children horizontally */
+}
+
+#messageDisplay {
+    margin-bottom: 20px; /* Add margin to the bottom */
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    width: auto;
+    height: auto;
+    font-size: 60px;
+    justify-content: center;
+    align-items: center;
+}
+
+.p-text {
+    padding-top: 0px;
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    width: 200px; /* Set the width */
+    height: 50px;
+    font-size: 20px;
+}
