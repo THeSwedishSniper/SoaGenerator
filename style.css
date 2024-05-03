@@ -2,6 +2,7 @@
     display: flex;
     flex-direction: column; /* Stack children vertically */
     align-items: center; /* Center children horizontally */
+    margin-top: 50px ;
 }
 
 #messageDisplay {
@@ -35,4 +36,11 @@ button {
     width: 200px; /* Set the width */
     height: 50px;
     font-size: 20px;
+    margin-top: 70px;
+}
+
+#messageDisplay{
+    font-size: 50px;
+    font-family: Helvetica, sans-serif;
+    margin-top: 20px;
 }
